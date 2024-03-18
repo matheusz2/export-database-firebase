@@ -1,0 +1,11 @@
+{
+  "name": "export-database-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "export-database.js",
+  "author": "Matheus Ortiz",
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
